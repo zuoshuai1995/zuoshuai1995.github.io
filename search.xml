@@ -4,24 +4,11 @@
   
     
     <entry>
-      <title>newpapername</title>
-      <link href="2020-11-29-newpapername.html"/>
-      <url>2020-11-29-newpapername.html</url>
+      <title>idea快捷键学习笔记</title>
+      <link href="2020-12-24-idea%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html"/>
+      <url>2020-12-24-idea%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</url>
       
-        <content type="html"><![CDATA[<p>Hello World!!!!!</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="2020-11-29-hello-world.html"/>
-      <url>2020-11-29-hello-world.html</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="IDEA快捷键学习笔记"><a href="#IDEA快捷键学习笔记" class="headerlink" title="IDEA快捷键学习笔记"></a>IDEA快捷键学习笔记</h1><p>1、显示行号 ： ctrl + shift + A -&gt; show line numbers</p><p>2、智能提示，按两次会显示不同类中的该变量：Alt + / </p><p>3、智能选中/取消：Ctrl + W   Ctrl + Shift + W</p><p>4、智能删除：Ctrl + Shift + Delete</p><p>5、智能过滤，会从上下文中寻找类型合适的变量：Ctrl + Shift + 空格</p><p>6、智能替换而不是插入，当按Alt + /提示内容时：Tab</p><p>7、抽取变量：Ctrl + Alt + V</p><p>8、显示重构菜单： Ctrl + Alt + Shift + T</p><p>​        引入参数：Introduce Parameter    Ctrl + Alt + P</p><p>​        内联变量：Inline Method    Ctrl + Alt + N</p><p>​        抽取常量：Introduce Constant    Ctrl + Alt + C</p><p>9、显示代码格式化的设置：Ctrl + Alt +Shift + L</p><p>10、文档说明：</p><p>​            Ctrl + Q 查看调用处文档说明</p><p>​            Ctrl + Shift + I 查看调用处的代码</p><p>11、代码助手</p><p>​        F2 定位到程序报错或者警告的地方</p><p>​        Ctrl + F1 显示错误地方的描述</p><p>​        Ctrl + Shift + F7 高亮显示变量</p><p>12、断点调试</p><p>​        Ctrl + F8 添加断点</p><p>​        Shift + F9 debug启动</p><p>​        F7  进入方法内部，一行同时调用多个方法时，可以选择进入指定的某个方法</p><p>​        Ctrl + Alt + F8 计算选中变量的值</p><p>​        Ctrl + F9 重构项目，当发现debug的代码错误的时候，修改后可以使用Ctrl + F9进行热部署，如果项目较大的话会比较慢</p><p>​        Drop Frame 回退到上一个断点的地方</p><p>​        Mute Breakpoints  忽略断点</p><p>​        Alt + F8 输入对应的表达式后，可以计算变量的值</p>]]></content>
       
       
       
